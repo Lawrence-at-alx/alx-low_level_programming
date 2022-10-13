@@ -1,4 +1,4 @@
-#!/bin/bash
+Vi 5-printf.c 
 #include <stdio.h>
 
 /**
