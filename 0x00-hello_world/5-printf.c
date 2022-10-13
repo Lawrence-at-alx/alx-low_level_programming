@@ -1,10 +1,10 @@
-Vi 5-printf.c 
+vim 5-printf.c 
 #include <stdio.h>
 
 /**
- *main-entry point for the program.
+ *main - print a test.
  *
- * Return: 0 if no errors, return non zero if errors
+ * Return: always 0 (success)
  */
 int main(void)
 {
