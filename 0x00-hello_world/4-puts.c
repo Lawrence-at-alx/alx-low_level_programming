@@ -1,12 +1,10 @@
-#!/bin/bash
 #include <stdio.h>
 
-/**
- *  * main - Prints "Programming is like building a multilingual
- *   *                puzzle, followed by a new line.
- *    *
- *     * Return: Always 0.
- *      */
+/*
+ * maon - Serves as the entry point for the program
+ *
+ * Return: By default returns zero if no zero othewise returns non-zero value.
+ */
 int main(void)
 {
 		puts("\"Programming is like building a multilingual puzzle");
