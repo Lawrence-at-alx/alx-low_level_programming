@@ -1,7 +1,6 @@
 #include <stdio.h>
-
-/*
- * maon - Serves as the entry point for the program
+/**
+ * main - Serves as the entry point for the program
  *
  * Return: By default returns zero if no zero othewise returns non-zero value.
  */
