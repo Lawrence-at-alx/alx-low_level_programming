@@ -1,14 +1,14 @@
 #include <stdio.h>
 /**
- * main program entry point.
- *
- * Return 0 if no error, non-zero if error.
+ * main - print lowercase a-z
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	char i;
 
-	for(i = 'a'; i <= 'z'; i++)
+	for (i = 'a'; i <= 'z'; i++)
 	{
 		putchar(i);
 	}
