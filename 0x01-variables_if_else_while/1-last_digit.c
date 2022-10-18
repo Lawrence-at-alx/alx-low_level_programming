@@ -22,7 +22,7 @@ int main(void)
 	}
 	else if ((n % 10) > 5)
 	{
-		printf("greter than 5\n");
+		printf("greater than 5\n");
 	}
 	else
 	{
