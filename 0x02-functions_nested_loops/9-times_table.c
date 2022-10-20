@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * time_table - print the 9 time table, starting with 0
+ * times_table - print the 9 time table, starting with 0
  *
  * Return: empty output
  */
@@ -28,7 +28,7 @@ void times_table(void)
 			{
 				if (y != 0)
 				{
-					_putchar(42);
+					_putchar(44);
 					_putchar(32);
 					_putchar(32);
 				}
