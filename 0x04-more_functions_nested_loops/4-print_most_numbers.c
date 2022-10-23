@@ -6,7 +6,7 @@
  *
  * Return: The numbers since 0 up to 9
  */
-int print_most_numbers(void)
+void print_most_numbers(void)
 {
 	int x = 0;
 
