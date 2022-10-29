@@ -1,8 +1,5 @@
 #include <stdio.h>
-/**
- * main - to correct a line of code.
- * @p: you are not allowed to modified p.
- */
+
 int main(void)
 {
 	int n;
